@@ -2,7 +2,7 @@
 Hello Everyone Welcome to the world of Ram Bhatt.
 --->
 - 👋 <h1>Name:- Ram Bhatt </h1>
-Father Name:- Tilak Raj Bhatt
+- Father Name:- Tilak Raj Bhatt
 - Mother Name:- Dhana Bhatt
 - Brother Name:- Laxman Bhatt
 - Strength:- Never Give up, Stubborn, Hungry (for meaning contact me).
