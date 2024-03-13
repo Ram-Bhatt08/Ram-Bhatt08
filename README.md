@@ -7,6 +7,7 @@ Hello Everyone Welcome to the world of Ram Bhatt.
 - Brother Name:- Laxman Bhatt
 - Strength:- Never Give up, Stubborn, Hungry (for meaning contact me).
 - Weakness:- Same as Strength.
+- <b> Idol of Mistake </b>
 - 👀 Hobbies:- Watching Mythological Serials, Research About New Thing.
 - 🌱 I’m currently learning  new skills.
 - Aim:- To be a Founder Of Unicorn.
