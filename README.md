@@ -2,7 +2,7 @@
 Hello Everyone Welcome to the world of Ram Bhatt.
 --->
 - 👋 <h1>Name:- Ram Bhatt </h1>
-- <b> Idol of Mistake </b>
+- <h2> Idol of Mistake </h2>
 - Father Name:- Tilak Raj Bhatt
 - Mother Name:- Dhana Bhatt
 - Brother Name:- Laxman Bhatt
