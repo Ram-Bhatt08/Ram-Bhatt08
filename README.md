@@ -2,7 +2,7 @@
 Hello Everyone Welcome to the world of Ram Bhatt.
 --->
 - 👋 <h1>Name:- Ram Bhatt </h1>
-- <h2> Idol of Mistake </h2>
+- <h2> Do mistake and learn from them.</h2>
 - Strength:- Never Give up, Stubborn, Hungry (for meaning contact me).
 - Weakness:- Same as Strength.
 - 👀 Hobbies:- Watching Mythological Serials, Research About New Thing.
