@@ -1,6 +1,6 @@
-<!--- Hello Everyone! Welcome to the world of Ram Bhatt. --->
+<h1><!--- Hello Everyone! ---> </h1>
 👋 Introduction
-Name: Ram Bhatt
+<h1>Name: Ram Bhatt </h1>
 
 🌟 Attributes
 Motto: "Do mistake and learn from them."
