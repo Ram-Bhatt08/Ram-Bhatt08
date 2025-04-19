@@ -6,12 +6,10 @@
 Motto: "Do mistake and learn from them." <br>
 
 Strengths: Never give up, stubborn, hungry (for meaning, contact me). <br>
-
 Weaknesses: Same as strengths. <br>
 
 👀 Hobbies <br>
 Watching Mythological Serials
-
 Researching new things
 
 🌱 Current Focus <br>
@@ -25,5 +23,4 @@ Idol: The Duo (Krishna and Arjun)
 
 📫 Contact Information <br>
 Email: the.ram.bhatt@gmail.com
-
 Phone: +977 9812705820, +91 8630337415
