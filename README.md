@@ -1,19 +1,29 @@
-<!---
-Hello Everyone Welcome to the world of Ram Bhatt.
---->
-- 👋 <h1>Name:- Ram Bhatt </h1>
-- <h2> Do mistake and learn from them.</h2>
-- Strength:- Never Give up, Stubborn, Hungry (for meaning contact me).
-  
-- Weakness:- Same as Strength.
-  
-- 👀 Hobbies:- Watching Mythological Serials, Research About New Thing.
-  
-- 🌱 I’m currently learning  new skills.
-  
-- Aim:- To be a Founder Of Unicorn.
-  
-- My Idol:- The Duo (Krishna and Arjun) .
- 
-- 📫 How to reach me +977 9812705820,+91 8630337415, the.ram.bhatt@gmail.com
-  
+<!--- Hello Everyone! Welcome to the world of Ram Bhatt. --->
+👋 Introduction
+Name: Ram Bhatt
+
+🌟 Attributes
+Motto: "Do mistake and learn from them."
+
+Strengths: Never give up, stubborn, hungry (for meaning, contact me).
+
+Weaknesses: Same as strengths.
+
+👀 Hobbies
+Watching Mythological Serials
+
+Researching new things
+
+🌱 Current Focus
+I’m currently learning new skills.
+
+🎯 Goal
+Aim: To be the Founder of a Unicorn company.
+
+👤 Inspiration
+Idol: The Duo (Krishna and Arjun)
+
+📫 Contact Information
+Email: the.ram.bhatt@gmail.com
+
+Phone: +977 9812705820, +91 8630337415
