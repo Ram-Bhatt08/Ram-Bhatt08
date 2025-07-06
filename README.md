@@ -22,5 +22,5 @@ Aim: To be the Founder of a Unicorn company.
 Idol: The Duo (Krishna and Arjun)
 
 📫 Contact Information <br>
-Email: the.ram.bhatt@gmail.com
+Email: the.ram.bhatt@gmail.com <br>
 Phone: +977 9812705820, +91 8630337415
