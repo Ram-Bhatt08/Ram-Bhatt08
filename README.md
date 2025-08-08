@@ -41,8 +41,9 @@
 
 ---
 
-## 🌐 Portfolio  
-[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://the-ram-bhatt.vercel.app/)
+## 🌐 Portfolio & Socials  
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://the-ram-bhatt.vercel.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-bhatt08/)
 
 ---
 
