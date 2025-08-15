@@ -1,7 +1,7 @@
 <!-- Typing Animation -->
 # Hi, I'm Ram Bhatt
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00C853&width=600&lines=Software+Developer;Problem+Solver;Future+Unicorn+Founder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00C853&width=600&lines=Software+Developer;Problem+Solver;Vibe+Coder;Future+Unicorn+Founder)](https://git.io/typing-svg)
 
 
 <!-- Profile Views -->
